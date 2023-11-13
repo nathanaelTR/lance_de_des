@@ -8,7 +8,7 @@ public class App {
     
     public static void main(String[] args) {
 
-        // je crée une config pour mettre dans un tableau le nombre de lancé et le nombre d'objectif par défaut {5 = nombre de lancé et 20 = a l'objectif}
+        // je crée une config pour mettre dans un tableau le nombre de lancé et le nombre objectif par défaut {5 = nombre de lancé et 20 = a l'objectif}
         int[] config = {5, 20};
 
         // le total global
