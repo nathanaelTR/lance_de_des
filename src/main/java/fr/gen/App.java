@@ -42,7 +42,7 @@ public class App {
 
         // Je regarde si le total de case et belle est bien égale a 0 
         if(totalCase == 0 ) {
-          System.out.println("Vous avez gagné !");
+          System.out.print("Vous avez gagné !");
         }else {
           System.out.print("Vous avez perdu !"); 
         }
